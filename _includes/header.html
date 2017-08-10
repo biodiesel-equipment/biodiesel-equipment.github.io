@@ -1,0 +1,18 @@
+<!-- Header -->
+<header id="header">
+  <h1 id="logo"><a href="{{ site.baseurl }}{% link index.md %}">CBR Beyond Technology Enterprises</a></h1>
+  <nav id="nav">
+    <ul>
+      <li><a href="{{ site.baseurl }}{% link index.md %}">Home</a></li>
+      <li>
+        <a href="#">About Us</a>
+        <ul>
+          {% for page in site.pages %}
+          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li><a href="mailto:order@biodiesel.equipment" class="button special">Order Now</a></li>
+    </ul>
+  </nav>
+</header>
