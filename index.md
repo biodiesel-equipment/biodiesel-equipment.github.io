@@ -4,12 +4,12 @@ layout: default
 <!-- Banner -->
 <section id="banner">
   <div class="content">
+    <span class="image"><img src="{{ site.baseurl }}{% link images/logo.square.jpg %}" alt="" /></span>
     <header>
-      <h2>Capistrano Biodiesel Reactor</h2>
-      <p>Beyond Technology Enterprises. <br />
-      <a href="">Order Now</a></p>
+      <h2>Beyond Technology Enterprises.</h2>
+      <p>High quality, Easy to Use Biodisel Equipment &amp; Services<br />
+      <a href="mailto:order@biodiesel.equipment">Order Now</a></p>
     </header>
-    <span class="image"><img src="{{ site.baseurl }}{% link images/pic01.jpg %}" alt="" /></span>
   </div>
   <a href="#one" class="goto-next scrolly">Next</a>
 </section>
@@ -21,23 +21,21 @@ layout: default
       <div class="row">
         <div class="4u 12u$(medium)">
           <header>
-            <h2>Odio faucibus ipsum integer consequat</h2>
-            <p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+            <h2>Turn your waste oil into liquid gold</h2>
+            <p>Biodiesel is a better performing, cleaner alternative to fossil fuels.</p>
           </header>
         </div>
         <div class="4u 12u$(medium)">
-          <p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-          Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-          nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-          augue varius tempus lobortis porttitor accumsan consequat
-          adipiscing lorem dolor.</p>
+          <p>By using our products and services, you can turn your New or Waste
+          Vegetable Oil (N/WVO) into environmentally-friendly clear Biodiesel. You
+          can then use it as fuel without any modifications to your diesel engines
+          and motors!</p>
         </div>
         <div class="4u$ 12u$(medium)">
-          <p>Morbi enim nascetur et placerat lorem sed iaculis neque ante
-          adipiscing adipiscing metus massa. Blandit orci porttitor semper.
-          Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
-          mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
-          ipsum dolor nullam.</p>
+          <p>Biodiesel performs better and combusts cleaner than traditional
+          fossil fuels such as diesel and petrol. It even makes your engines
+          run smoother and quieter, leading to less maintenance fees and
+          better fuel economy!</p>
         </div>
       </div>
     </div>
@@ -49,12 +47,16 @@ layout: default
   <span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
   <div class="content">
     <header>
-      <h2>Interdum amet non magna accumsan</h2>
-      <p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+      <h2>Restore Fuel System Efficiency</h2>
+      <p>With No Engine or Motor Modification!</p>
     </header>
-    <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+    <p>Biodiesel produced with our patented reactors has unique cleansing properties that 
+    dissolves carbon and diesel soot deposits in the engine combustion chamber. It can also 
+    declog fuel lines and your fuel injector nozzles. Furthermore, the biodiesel's high 
+    lubricity enhances the efficient movement of the moving parts in the fuel pump and fuel
+     injector unit, which effectively restores the fuel system's efficiency!</p>
     <ul class="actions">
-      <li><a href="#" class="button">Learn More</a></li>
+      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
     </ul>
   </div>
   <a href="#three" class="goto-next scrolly">Next</a>
@@ -64,12 +66,12 @@ layout: default
   <span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
   <div class="content">
     <header>
-      <h2>Interdum felis blandit praesent sed augue</h2>
-      <p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+      <h2>Eliminate Harmful Gases and Smoke Emissions</h2>
+      <p>Join the Fight Against Climate Change</p>
     </header>
-    <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+    <p>Because of its high cetane number and oxygen content, a more complete and faster rate of combustion of the fuel is achieved. This not only drastically reduces the formation of harmful gases and black smoke, it also causes significant fuel savings. The biodiesel produced from our equipment undergoes a more complete burning and is converted to greater power and mileage efficiency.</p>
     <ul class="actions">
-      <li><a href="#" class="button">Learn More</a></li>
+      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
     </ul>
   </div>
   <a href="#four" class="goto-next scrolly">Next</a>
@@ -78,46 +80,29 @@ layout: default
 <section id="four" class="wrapper style1 special fade-up">
   <div class="container">
     <header class="major">
-      <h2>Accumsan sed tempus adipiscing blandit</h2>
-      <p>Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat</p>
+      <h2>Save Money. Save the Environment.</h2>
+      <p>There are inumerable benefits of using our products and services.</p>
     </header>
     <div class="box alt">
-      <div class="row uniform">
-        <section class="4u 6u(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-area-chart"></span>
-          <h3>Ipsum sed commodo</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
-        <section class="4u 6u$(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-comment"></span>
-          <h3>Eleifend lorem ornare</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
-        <section class="4u$ 6u(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-flask"></span>
-          <h3>Cubilia cep lobortis</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
-        <section class="4u 6u$(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-paper-plane"></span>
-          <h3>Non semper interdum</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
-        <section class="4u 6u(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-file"></span>
-          <h3>Odio laoreet accumsan</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
-        <section class="4u$ 6u$(medium) 12u$(xsmall)">
-          <span class="icon alt major fa-lock"></span>
-          <h3>Massa arcu accumsan</h3>
-          <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-        </section>
+      <div class="center-parent">
+        <div class="center-child">
+          <div class="slideshow">
+            <div><img src="{{ site.baseurl }}{% link images/slide01.jpg %}" alt=""/></div>
+            <div><img src="{{ site.baseurl }}{% link images/slide02.jpg %}" alt=""/></div>
+            <div><img src="{{ site.baseurl }}{% link images/slide03.jpg %}" alt=""/></div>
+          </div>
+          <ul>
+            <li>Impressive 1:1 Yield Ratio Between Oil and Biodiesel</li>
+            <li>Minimal Energy Consumption, with less than 50kWh per ton</li>
+            <li>International and Philippine standard grade fuel: ASTM-6751</li>
+            <li>Low to zero waste products after fuel production</li>
+          </ul>
+        </div>
       </div>
     </div>
     <footer class="major">
       <ul class="actions">
-        <li><a href="#" class="button">Magna sed feugiat</a></li>
+        <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
       </ul>
     </footer>
   </div>
@@ -126,14 +111,10 @@ layout: default
 <section id="five" class="wrapper style2 special fade">
   <div class="container">
     <header>
-      <h2>Magna faucibus lorem diam</h2>
-      <p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
+      <h2>Inquire About Our Products &amp; Services Now</h2>
     </header>
-    <form method="post" action="#" class="container 50%">
-      <div class="row uniform 50%">
-        <div class="8u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Your Email Address" /></div>
-        <div class="4u$ 12u$(xsmall)"><input type="submit" value="Get Started" class="fit special" /></div>
-      </div>
-    </form>
+    <div>
+      <a href="mailto:order@biodiesel.equipment" class="button special">Contact Us</a>
+    </div>
   </div>
 </section>

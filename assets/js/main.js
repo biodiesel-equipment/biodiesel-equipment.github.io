@@ -23,6 +23,15 @@
 			$body.addClass('is-loading');
 
 			$window.on('load', function() {
+				$(".slideshow").slick({
+					dots: true,
+					infinite: true,
+					speed: 500,
+					fade: true,
+					cssEase: 'linear',
+					adaptiveHeight: true
+				});
+				// Animate now.
 				window.setTimeout(function() {
 					$body.removeClass('is-loading');
 				}, 0);

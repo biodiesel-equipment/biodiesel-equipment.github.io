@@ -7,7 +7,8 @@
       "taskName": "build",
       "command": "build.bat",
       "type": "shell",
-      "isBackground": true
+      "isBackground": true,
+      "problemMatcher": []
     }
   ]
 }
