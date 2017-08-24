@@ -7,7 +7,7 @@ layout: default
     <span class="image"><img src="{{ site.baseurl }}{% link images/logo.square.jpg %}" alt="" /></span>
     <header>
       <h2>Beyond Technology Enterprises.</h2>
-      <p>High Quality, Easy to Use Biodisel Equipment &amp; Services<br />
+      <p>High Quality, Easy to Use Biodiesel Equipment &amp; Services<br />
         <a href="mailto:order@biodiesel.equipment" 
           onclick="ga('send','event','link','ordernow','banner header');">Order Now</a>
       </p>
