@@ -8,7 +8,8 @@ layout: default
     <header>
       <h2>Beyond Technology Enterprises.</h2>
       <p>High quality, Easy to Use Biodisel Equipment &amp; Services<br />
-      <a href="mailto:order@biodiesel.equipment">Order Now</a></p>
+      <a href="mailto:order@biodiesel.equipment" 
+        onclick="ga('send','event','link','ordernow','banner header');">Order Now</a></p>
     </header>
   </div>
   <a href="#one" class="goto-next scrolly">Next</a>
@@ -56,7 +57,9 @@ layout: default
     lubricity enhances the efficient movement of the moving parts in the fuel pump and fuel
      injector unit, which effectively restores the fuel system's efficiency!</p>
     <ul class="actions">
-      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
+      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}"
+          onclick="ga('send','event','link','faq','section two');"
+          class="button">Learn More</a></li>
     </ul>
   </div>
   <a href="#three" class="goto-next scrolly">Next</a>
@@ -71,7 +74,9 @@ layout: default
     </header>
     <p>Because of its high cetane number and oxygen content, a more complete and faster rate of combustion of the fuel is achieved. This not only drastically reduces the formation of harmful gases and black smoke, it also causes significant fuel savings. The biodiesel produced from our equipment undergoes a more complete burning and is converted to greater power and mileage efficiency.</p>
     <ul class="actions">
-      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
+      <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}"
+          onclick="ga('send','event','link','faq','section three');"
+          class="button">Learn More</a></li>
     </ul>
   </div>
   <a href="#four" class="goto-next scrolly">Next</a>
@@ -102,7 +107,9 @@ layout: default
     </div>
     <footer class="major">
       <ul class="actions">
-        <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" class="button">Learn More</a></li>
+        <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" 
+          onclick="ga('send','event','link','faq','section four');"
+          class="button">Learn More</a></li>
       </ul>
     </footer>
   </div>
@@ -114,7 +121,9 @@ layout: default
       <h2>Inquire About Our Products &amp; Services Now</h2>
     </header>
     <div>
-      <a href="mailto:order@biodiesel.equipment" class="button special">Contact Us</a>
+      <a href="mailto:order@biodiesel.equipment" 
+        onclick="ga('send','event','link','ordernow','section five');"
+        class="button special">Contact Us</a>
     </div>
   </div>
 </section>
