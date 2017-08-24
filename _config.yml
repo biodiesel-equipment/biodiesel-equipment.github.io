@@ -6,13 +6,13 @@ description: >
   in the Philippines.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biodiesel.equipment" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  biodiesel.equipment
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   pages:
