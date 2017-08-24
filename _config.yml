@@ -1,18 +1,25 @@
-title: Biodiesel Equipment Website
+title: CBR Beyond Technologies Enterprises
 email: order@biodiesel.equipment
 description: >
-  CBR Beyond Technologies website is dedicated to providing 
-  equipment and services with regards to Biodiesel production
-  in the Philippines.
+  High Quality, Easy to Use Biodisel Equipment, 
+  Products & Services in the Philippines
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biodiesel.equipment" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  biodiesel.equipment
+
+# SEO
+logo: /images/logo.full.jpg
+social:
+  name: biodiesel.equipment
+  links:
+    - https://github.com/biodiesel.equipment
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 collections:
   pages:
