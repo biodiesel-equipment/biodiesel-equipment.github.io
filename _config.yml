@@ -5,7 +5,6 @@ description: >
   Products & Services in the Philippines
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biodiesel.equipment" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  biodiesel.equipment
 
 # SEO
 logo: /images/logo.full.jpg
@@ -13,6 +12,7 @@ social:
   name: biodiesel.equipment
   links:
     - https://github.com/biodiesel.equipment
+    - https://fb.me/biodiesel.equipment
 
 # Build settings
 markdown: kramdown
