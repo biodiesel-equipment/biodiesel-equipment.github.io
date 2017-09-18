@@ -7,7 +7,7 @@ layout: default
     <span class="image"><img src="{{ site.baseurl }}{% link images/logo.square.jpg %}" alt="" /></span>
     <header>
       <h2>Beyond Technology Enterprises.</h2>
-      <p>High Quality, Easy to Use Biodiesel Equipment &amp; Services<br />
+      <p>High Quality, Compact and Easy to Use<br />Biodiesel Reactor, Equipment &amp; Services<br />
         <a href="mailto:order@biodiesel.equipment" 
           onclick="ga('send','event','link','ordernow','banner header');">Order Now</a>
       </p>
@@ -23,7 +23,7 @@ layout: default
       <div class="row">
         <div class="4u 12u$(medium)">
           <header>
-            <h2>Turn your waste oil into liquid gold</h2>
+            <h2>Turn your used cooking oil into biodiesel</h2>
             <p>Biodiesel is a better performing, cleaner alternative to fossil fuels.</p>
           </header>
         </div>
@@ -100,20 +100,25 @@ layout: default
             <div><img src="{{ site.baseurl }}{% link images/slide01.jpg %}" alt=""/></div>
             <div><img src="{{ site.baseurl }}{% link images/slide02.jpg %}" alt=""/></div>
             <div><img src="{{ site.baseurl }}{% link images/slide03.jpg %}" alt=""/></div>
+            <div><img src="{{ site.baseurl }}{% link images/slide04.jpg %}" alt=""/></div>
           </div>
           <ul>
-            <li>Impressive 1:1 Yield Ratio Between Oil and Biodiesel</li>
-            <li>Minimal Energy Consumption, with less than 50kWh per ton</li>
-            <li>International and Philippine standard grade fuel: ASTM-6751</li>
-            <li>Low to zero waste products after fuel production</li>
+            <li>No engine modification needed</li>
+            <li>Cleans &amp; lubricates your existing engine</li>
+            <li>Reduction in smoke and pollution</li>
+            <li>Only P6/L operations cost when you’re getting free oil</li>
+            <li>Recommended by DOE, DENR and used by DOST</li>
+            <li>Produces clear biodiesel at 100% yield equivalent to EURO 5</li>
+            <li>Output can be used pure or mix with diesel at any proportions</li>
+            <li>No need of water showering</li>
           </ul>
         </div>
       </div>
     </div>
     <footer class="major">
       <ul class="actions">
-        <li><a href="{{ site.baseurl }}{% link _pages/faq.md %}" 
-          onclick="ga('send','event','link','faq','section four');"
+        <li><a href="{{ site.baseurl }}{% link _pages/product.md %}" 
+          onclick="ga('send','event','link','product','section four');"
           class="button">Learn More</a></li>
       </ul>
     </footer>
